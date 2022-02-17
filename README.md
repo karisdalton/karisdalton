@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @karisdalton
 - 👀 I’m interested in Machine learning, web development, Robotics
-- 🌱 I’m currently learning machine learning and robotics
+- 🌱 I’m currently teaching myself machine learning and robotics
 - 💞️ I’m looking to collaborate on machine learning projects
