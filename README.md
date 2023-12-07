@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @karisdalton
-- 👀 I’m interested in Machine learning, web development, DevOps
-- 🌱 I’m currently teaching myself machine learning and DevOps
-- 💞️ I’m looking to collaborate on machine learning projects
+- 👋 Hi, I’m Karis Dalton
