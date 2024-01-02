@@ -1,4 +1,4 @@
-![Software Developer](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?h=200&w=100%)
+![Software Developer](https://github.com/karisdalton/karisdalton/blob/main/image-1.png?raw=true)
 
 # Karis Dalton
 
