@@ -1,4 +1,4 @@
-![Software Developer](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
+![Software Developer](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?h=600)
 
 # Karis Dalton
 
