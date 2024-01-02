@@ -2,7 +2,7 @@
 
 # Karis Dalton
 
-I'm Dalton, and I am a Software developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in python. I also enjoy networking, UI, UX and design in general.
+I'm Dalton, and I am a Software developer. I really enjoy learning languages and frameworks like React and React Native, as well as work in python and Flutter. I also enjoy networking, UI, UX and design in general.
 
 ## Skills and Experience
 * ⚛ React
