@@ -2,7 +2,7 @@
 
 # Karis Dalton
 
-I'm Dalton, and I am a Software engineer. I am currently working with java and laravel but I also periodically use python and Flutter. I also enjoy networking.
+I'm Dalton, and I am a Software developer. I am currently working with java and laravel but I also periodically use python and Flutter. I also enjoy networking.
 
 ## Skills and Experience
 * 🐍 Python, Java, Laravel
